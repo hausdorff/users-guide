@@ -12,11 +12,15 @@ Here are some of the things I have observed about where I get sidetracked or stu
 
 ### Sidetracked
 
+Some examples of stuff I spend a bit too much time on, as I move on my way to accomplishing a goal:
+
 * I sometimes solve problems because they are interesting, even if they're not the most important thing to be working on. I have gotten a lot better at this, but there is still progress to be made. This used to manifest as working on interesting side-projects instead of my main deliverable, but these days I'm more prone to spend more time over-thinking core APIs and abstractions.
 * Refactoring. I sometimes catch myself "weeding the garden" (_e.g._, moving header files around, refactoring interfaces, and so on) a bit too much.
 * Testing. I believe tests are a good insurance policy to help you reason about the technical risks you're taking, but I'm a bit of a completionist, and sometimes spend a bit too much time on this.
 
 ### Stuck
+
+Some examples of stuff that causes intellectual throughput of my brain to drop precipitously:
 
 * Sometimes I'll start to solve a problem, and then forget to periodically re-examine whether there's an easier way to accomplish my goals. This is related to the fact that I see one of my biggest strengths as persistence; so while this is sometimes a good quality, I haven't learned yet how to always tell the difference.
 * I learn best when I have something I can interact with. Corollary: I do occasionally get stuck when I have to imagine how something works instead of being able to actually play with it and find out for sure. For example, I used to hack on the Linux kernel in my spare time, and the undocumented locking conditions of different subsystems plus the 5-8 minute compile times caused me a lot of anxiety about ever being able to figure stuff out, which subsequently caused me to spend more time on things than I could have.
