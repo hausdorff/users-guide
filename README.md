@@ -34,6 +34,7 @@ Some examples of stuff that causes intellectual throughput of my brain to drop p
   * More specifically of my input is not taken seriously at the task- or goal-level, then I will start to wonder if I'm being used to my full potential.
 * Not being consulted about processes that it is my job (or my direct team's job) to enact.
   * I obviously don't expect my advice to be taken all the time (or even most of the time), but when it is mandated that (_e.g._) a code review process is instituted, and it does not seem that the input required to affect the correct outcome was sought, it makes me wonder whether the team is really trusted to carry out this task.
+* Eurythmics.
 
 ## My happiest times at work in the last year
 
